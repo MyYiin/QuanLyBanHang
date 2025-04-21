@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyBanHang", "QuanLyBanHang\QuanLyBanHang.csproj", "{380A4015-2DE5-4B89-8BA2-EE094306C656}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuanLyBanHang setup", "QuanLyBanHang setup\QuanLyBanHang setup.vdproj", "{E90C1F17-F66B-4379-98B1-11B0FD0D0331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380A4015-2DE5-4B89-8BA2-EE094306C656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380A4015-2DE5-4B89-8BA2-EE094306C656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380A4015-2DE5-4B89-8BA2-EE094306C656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380A4015-2DE5-4B89-8BA2-EE094306C656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90C1F17-F66B-4379-98B1-11B0FD0D0331}.Debug|Any CPU.ActiveCfg = Debug
+		{E90C1F17-F66B-4379-98B1-11B0FD0D0331}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CE4177-AD49-4E3A-8D4F-AE865AE07C66}
+	EndGlobalSection
+EndGlobal
